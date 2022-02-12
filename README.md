@@ -4,9 +4,9 @@ ASP and then in Python several biological constraints that improved the networkâ
 training that improved the networkâ€™s accuracy of ~3 %.
 
 
-[Example of corrected Graph](orientato13.png)
+![Example of corrected Graph](orientato13.png)
 
-[Example of corrected Graph](./images/grafo4.png) [Example of corrected Graph](./images/grafo13.png)
+![Example of corrected Graph](./images/grafo4.png) ![Example of corrected Graph](./images/grafo13.png)
 
 
 [Example of corrected Graph](./images/correzioni4.png)
