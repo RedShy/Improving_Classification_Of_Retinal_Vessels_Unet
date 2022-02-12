@@ -6,7 +6,7 @@ training that improved the network’s accuracy of ~3 %.
 
 ![Example of corrected Graph](orientato13.png)
 
-![](./images/grafo4.png | width=100) ![](./images/grafo13.png | width=100)
+![](./images/grafo4.png|width=100px) ![](./images/grafo13.png|width=100px)
 
 
 [Example of corrected Graph](./images/correzioni4.png)
